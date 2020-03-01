@@ -1,0 +1,18 @@
+body {
+  background-color: #4e98af;
+}
+.img {
+  height: 100px;
+  width: 100px;
+  background-image: url(http://localhost:8888/a0bd18b0929a951b00aa0e186b3bdcc8.jpg);
+}
+.img2 {
+  height: 100px;
+  width: 100px;
+  background-image: url(http://localhost:8888/a0bd18b0929a951b00aa0e186b3bdcc8.png);
+}
+.less {
+  height: 300px;
+  width: 300px;
+  background-color: #f00;
+}
